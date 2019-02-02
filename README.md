@@ -1,2 +1,2 @@
-# Tul-Hekel
-Dontt Re-Code Oky Bastard :)
+# kalo ga bisa tanya bapak kau
+copast mati kau :)
