@@ -514,7 +514,7 @@ cd ~
 apt update && apt upgrade
 apt install python2 git
 pip2 install requests
-git clone https://github.com/avramit/instahack
+git clone https://github.com/Dil4ctor99/insta
 fi
 if [ $pass = 6 ]
 then
