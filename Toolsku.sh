@@ -16,8 +16,8 @@ yellow='\e[1;33m'
 
 echo -e $red
 figlet "TUL TERMUX FOR HEKEL JAMAN NOW"
-echo -e $blue "                   THE TOOL BY OTAK MESUMT_{0MEST}_"
-echo -e $green "                    whatsapp 082278818357"
+echo -e $blue "                   Dr.DIL4CTOR A.K.A _AMARSH_"
+echo -e $green "                    whatsapp 081360044252"
 echo -e $green     "MINE TOOLS"
 echo -e $green     "1-DDOS"
 echo -e $red     "2-WEB HACK"
